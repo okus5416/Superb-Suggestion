@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ r
+comment0.target=Student(java.lang.String,\ int[])
+comment1.params=pos\ rate
+comment1.target=void\ addRating(int,\ int)
+comment2.params=pos\ rate
+comment2.target=void\ editRating(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=a
+comment4.target=int\ getRatings(int)
+numComments=5

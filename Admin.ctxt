@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=movieList\ numMov
+comment0.target=void\ main(java.lang.String[],\ int)
+comment1.params=
+comment1.target=int\ movieSuggestions()
+comment2.params=movies\ mov\ numMov
+comment2.target=void\ addMovie(java.lang.String[],\ java.lang.String,\ int)
+comment3.params=mov
+comment3.target=void\ delMov(java.lang.String)
+numComments=4
